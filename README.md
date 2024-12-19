@@ -1,8 +1,28 @@
-# React + Vite
+## Overview
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project presentation only product details page and checkout popup.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [Feature 1: Add to cart]
+- [Feature 2: Brand color wise update]
+- [Feature 3: Dynamic cart information]
+
+## Technologies Used
+
+- [Vite + React.js]
+- [Tailwind CSS]
+- [React icons]
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Ikramuddin21/products-details-react.git
+   ```
+2. cd products-details-react
+3. npm install
+4. npm run dev
+
+Live link:
+https://product-details-react-pj.netlify.app/
