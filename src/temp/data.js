@@ -5,7 +5,7 @@ import img4 from "/img4.png";
 
 export const products = [
   {
-    id: 1,
+    id: "1",
     title: "Classy Modern Smart watch",
     img: img1,
     price: "50",
@@ -20,7 +20,7 @@ export const products = [
     ],
   },
   {
-    id: 2,
+    id: "2",
     title: "Modern watch",
     img: img2,
     price: "92",
@@ -35,7 +35,7 @@ export const products = [
     ],
   },
   {
-    id: 3,
+    id: "3",
     title: "Classy Smart watch",
     img: img3,
     price: "99",
@@ -50,7 +50,7 @@ export const products = [
     ],
   },
   {
-    id: 4,
+    id: "4",
     title: "Smart watch",
     img: img4,
     price: "81",
